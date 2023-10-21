@@ -1,5 +1,5 @@
 import React from 'react'
-import {HiGift} from 'react-icons/hi'
+import {HiGift} from 'react-icons/hi2'
 import {BiNews} from 'react-icons/bi'
 import {MdToday} from 'react-icons/md'
 import {BiSolidCustomize} from 'react-icons/bi'
